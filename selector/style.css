@@ -1,0 +1,21 @@
+*{
+    color: blue;
+}
+h1{
+    color: brown;
+}
+#headingOne{
+color: blueviolet;
+}
+#headingTwo{
+    color: maroon;
+    }
+    #headingThree{
+        color: gold;
+        }
+        #headingFour{
+            color: red;
+            }
+            .myclass{
+color: chocolate;
+            }

@@ -1,0 +1,15 @@
+h1{
+    text-align: left;
+}
+.myclass{
+    text-align: center;
+}
+.urclass{
+    text-align: right ;
+    /* text-decoration: line-through; */
+    /* text-decoration: underline; */
+/* text-decoration: overline; */
+}
+a{
+    text-decoration: none;
+}
